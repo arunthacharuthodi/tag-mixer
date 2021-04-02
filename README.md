@@ -1,4 +1,4 @@
-# flutter_app2
+# tagmixer app
 
 A new Flutter project.
 
