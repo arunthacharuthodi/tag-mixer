@@ -1,10 +1,20 @@
 # tagmixer app
 
-A new Flutter project.
+A tag mixer application for instagram post.
+Especially for meme pages.
 
 ## Getting Started
+This is a flutter project uses flutter 2.0.1
+All the files are not uploaded. Only files with high priority are 
+Upload.
 
-This project is a starting point for a Flutter application.
+
+
+
+
+
+
+## for someone new!!!
 
 A few resources to get you started if this is your first Flutter project:
 
